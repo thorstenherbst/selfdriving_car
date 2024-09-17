@@ -14,7 +14,7 @@ const config: ModuleFederationConfig = {
    * declare module 'my-external-remote';
    *
    */
-  remotes: ['frontend', 'tttgame'],
+  remotes: ['car'],
 };
 
 export default config;
