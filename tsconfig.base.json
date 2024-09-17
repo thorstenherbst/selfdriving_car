@@ -17,7 +17,9 @@
     "paths": {
       "@frontend/api": ["libs/api/src/index.ts"],
       "@frontend/e2e": ["libs/e2e/src/index.ts"],
+      "@frontend/sdcar": ["libs/sdcar/src/index.ts"],
       "@styles": ["styles"],
+      "car/Routes": ["apps/car/src/app/remote-entry/entry.routes.ts"],
       "frontend/Routes": ["apps/frontend/src/app/remote-entry/entry.routes.ts"],
       "tttgame/Routes": ["apps/tttgame/src/app/remote-entry/entry.routes.ts"]
     }
