@@ -1,25 +1,8 @@
-# Angular 18 Seed with Nx Workspace Monorepo
+# Self driving car simulation migrated to Angular 18 (WIP) 
 
-This is an Angular 18 Seed with Nx 19.
-I created this Seed to make developers work easier.
-Feel free to use it for your work.
-
-The seed contains an Nx Monorepo with 2 apps and 2 libraries:
-
-* frontend
-* tttgame (Tic Tac Toe)
-* e2e cypress library
-* api lib (star wars api)
-
-I am happy to see a shout out (referral to my github profile).
-
-## Next Steps:
-
-- [x] include nx module federation and a shell app
-* dockerize the whole application
-  - [ ] extract the MockBackendService from the TicTacToe Game into a seperate node.js server container
-  - [ ] extract the star wars api service into a separate middleware container
-  - [ ] create an own container for the app
+This is Angular 18 Application with Nx 19. I created due to my willing of understanding how AI works and 
+how goals of creating self driving cars are achieved. This repo does not claim to be complete. 
+It is just intended to show that such things can also be implemented with Angular and a domain driven design. 
 
 
 ## Integration of Nx
